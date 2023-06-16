@@ -1,7 +1,7 @@
 # LineageOS Downloads
 
 ### Requirements
-The latest Android 12 firmware (59.2.A.0.463), an [unlocked bootloader](https://developer.sony.com/develop/open-devices/get-started/unlock-bootloader) and USB debugging enabled.
+The latest Android 12 firmware (59.2.A.0.463), an [unlocked bootloader](https://developer.sony.com/open-source/aosp-on-xperia-open-devices/get-started/unlock-bootloader) and USB debugging enabled.
 
 The latest LineageOS [copy-partitions](https://mirrorbits.lineageos.org/tools/copy-partitions-20220613-signed.zip) package.
 
